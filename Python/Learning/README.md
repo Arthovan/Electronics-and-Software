@@ -1,6 +1,6 @@
 # Python - Algorithms and Data structure
-# Author - Arun Parkugan
-*** Use this folder only for learning. If you want to do some changes than please do it in your local copy of this project ***
+## Author - Arun Parkugan
+### *** Use this folder only for learning. If you want to do some changes than please do it in your local copy of this project ***
 
 Algorithm and DS : https://www.youtube.com/watch?v=8hly31xKli0
 
